@@ -1,29 +1,25 @@
 ### Hello! I'm Jeff.
 
-I live in Tulsa, Oklahoma. I like to learn and have been programming since 2017.
+I live in Tulsa, Oklahoma. I like to learn and have been programming since 2017. 
 
 ## Programming Skills:
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="javascript" src="https://icons8.com/icon/108784/javascript">
-</picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="html5" src="https://icons8.com/icon/v8RpPQUwv0N8/html-5">
-</picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="nodejs" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js">
-</picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="css" src="https://icons8.com/icon/3BTBsJs5myRy/css3">
-</picture>
+ <div style="flex-row">
+ <img height=75px width=150px alt="js/css/html" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png">
+ <img height=100px width=100px alt="C++/C#" src="https://francoiscandela.fr/img/skills/c_plusplus.jpg">
+</div>
 
+## Development Tools:
+<div style="flex-row">
+<img height=75px width=150px alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
+<img height=75px width=250px alt="reactjs" src="https://storage.googleapis.com/xebia-blog/1/2014/09/react-opti.png"/>
+<img height=75px width=200px alt="astro" src="https://astro.build/assets/press/astro-logo-dark.png"/>
+<img height=75px width=250px alt="mongodb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
+ </div>
+ 
+ ## Styling Tools:
+ <div style ="flex-row">
+ <img height=75px width=150px alt="nodejs" src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png"/>
+ </div>
 
 
 
