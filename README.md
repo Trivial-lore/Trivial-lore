@@ -10,10 +10,10 @@ I live in Tulsa, Oklahoma. I like to learn and have been programming since 2017.
 
 ## Development Tools:
 <div style="flex-row">
-<img height=75px width=150px alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
-<img height=75px width=250px alt="reactjs" src="https://storage.googleapis.com/xebia-blog/1/2014/09/react-opti.png"/>
-<img height=75px width=200px alt="astro" src="https://astro.build/assets/press/astro-logo-dark.png"/>
-<img height=75px width=250px alt="mongodb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
+<img height=50px width=100px alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
+<img height=50px width=180px alt="reactjs" src="https://storage.googleapis.com/xebia-blog/1/2014/09/react-opti.png"/>
+<img height=50px width=140px alt="astro" src="https://astro.build/assets/press/astro-logo-dark.png"/>
+<img height=50px width=180px alt="mongodb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
  </div>
  
  ## Styling Tools:
