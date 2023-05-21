@@ -5,7 +5,6 @@ I live in Tulsa, Oklahoma. I like to learn and have been programming since 2017.
 ## Programming Skills:
  <div style="flex-row">
  <img height=75px width=150px alt="js/css/html" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png">
- <img height=100px width=100px alt="C++/C#" src="https://francoiscandela.fr/img/skills/c_plusplus.jpg">
 </div>
 
 ## Development Tools:
